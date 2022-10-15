@@ -5,7 +5,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/luanotaviosilva/)
 
 ![Meu status do GitHub](https://github-readme-stats.vercel.app/api?username=luanotaviosilva&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanotaviosilva&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanotaviosilva&layout=compact&theme=gruvbox)](https://github.com/luanotaviosilva/github-readme-stats)
 
 ### Tecnologias utilizadas no meu aprendizado
 <div style="display: inline_block">
